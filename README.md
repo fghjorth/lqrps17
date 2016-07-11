@@ -1,16 +1,16 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016.
+
+### Description
+
+The course will use illustrative examples from the political science literature, without focusing on the implementation of the quantitative approaches in statistical software.  The course equips students with concepts needed to understand the reasoning behind research designs and modeling in quantitative political science research.
+
+Students will also have the opportunity to present and receive feedback on their own ongoing work (see 'Research paper' below).
+
+### Signing up
 
 To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
-
-### Dates
-
-Monday September 19-Friday September 23, 2016.
-
-### Location
-
-University of Copenhagen, Department of Political Science, Øster Farimagsgade 5, 1353 Copenhagen K.
 
 ### Course schedule
 
@@ -26,6 +26,14 @@ Block | Day   | Time | Theme | Texts
 8 |           | 13-16| Natural experiments 2: RDD |
 9 | Friday    | 9-12 | Content analysis 1 |
 10|           | 13-16| Content analysis 2 |
+
+### Dates
+
+Monday September 19-Friday September 23, 2016.
+
+### Location
+
+University of Copenhagen, Department of Political Science, Øster Farimagsgade 5, 1353 Copenhagen K.
 
 ### Class participation
 
