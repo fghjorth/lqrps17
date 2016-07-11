@@ -37,7 +37,7 @@ University of Copenhagen, Department of Political Science, Øster Farimagsgade 5
 
 ### Class participation
 
-It is expected that you have read text for each day and actively participate in class discussions.
+It is expected that you have read the texts for each day and participate actively in class discussions.
 
 ### Research paper
 
