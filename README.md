@@ -2,7 +2,7 @@
 
 This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016
 
-To sign up for the seminar, please send an email to ![phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
+To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
 
 ### Dates
 
