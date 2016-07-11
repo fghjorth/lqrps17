@@ -1,8 +1,18 @@
-# Logic of Quantitative Research in Political Science
+## Logic of Quantitative Research in Political Science
 
 This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016
 
-## Course schedule
+To sign up for the seminar, please send an email to ![phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
+
+### Dates
+
+Monday September 19-Friday September 23, 2016.
+
+### Location
+
+University of Copenhagen, Department of Political Science, Øster Farimagsgade 5, 1353 Copenhagen K.
+
+### Course schedule
 
 Block | Day   | Time | Theme | Texts
 ---|---|---|---|---
@@ -17,4 +27,20 @@ Block | Day   | Time | Theme | Texts
 9 | Friday    | 9-12 | Content analysis 1 |
 10|           | 13-16| Content analysis 2 |
 
-## Literature
+### Class participation
+
+It is expected that you have read text for each day and actively participate in class discussions.
+
+### Research paper
+
+Deadline for submitting a research paper is Wednesday, September 14 at noon. The research paper should focus on the quantitative/ comparative/ methodologically aspect of your research and be no longer than 10 pages. It is expected that you prepare comment to all papers. The papers will be distributed before the course.
+
+### Meals
+
+Lunch and coffee will be provided every day. There will be a dinner for all course participants at a Copenhagen restaurant.
+
+### Price
+
+For students enrolled at University of Copenhagen or political science departments at other Danish universities, course participation is free. For students at other departments, the fee is 1500 DKK
+
+### Literature
