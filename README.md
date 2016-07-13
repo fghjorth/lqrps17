@@ -57,8 +57,27 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 1: Logic 1
 
+- Nørgaard. A. S. (2008) Political Science: Witchcraft or Craftsmanship? Standards for Good Research. *World Political Science Review*. 4(1):1-28. (A must read)
+- Lijphart, A. (1971) Politics and the Comparative method. *American Political Science Review*. 65 (3):682-693. (search for his interpretation of the core idea of PS)
+
 #### 2: Logic 2
 
 #### 3: Regression 1
 
 #### 4: Regression 2
+
+#### 5: Experiments 1
+
+- Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
+- Campbell, D. T., & Stanley, J. C. (1996): *Experimental and Quasi-experimental Designs for Research*. Chicago: Rand McNally. pp. 1-16. (a must read)
+
+
+#### 6: Experiments 2
+
+#### 7: Natual experiments 1
+
+#### 8: Natual experiments 2
+
+#### 9: Content analysis 1
+
+#### 10: Content analysis 2
