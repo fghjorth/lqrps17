@@ -72,8 +72,8 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 2: Logic 2
 
-Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
-Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
+- Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
+- Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
 
 #### 3: Regression 1
 
