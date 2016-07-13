@@ -14,9 +14,9 @@ The course is structured around five themes, one covered each day:
 - Natural Experiments
 - Content analysis
 
-The course covers the key methodological approaches within each theme as well as canonical research articles applying the relevant approach. For more details, see the [Course schedule](#course-schedule) section below.
+The course covers the key methodological approaches within each theme as well as canonical research articles applying the relevant approach. For more details, see [Course schedule](#course-schedule) below.
 
-Students will also have the opportunity to present and receive feedback on their own ongoing work (see 'Research paper' below).
+Students will also have the opportunity to present and receive feedback on their own ongoing work (see [Research paper](#research-paper) below).
 
 ### Signing up
 
