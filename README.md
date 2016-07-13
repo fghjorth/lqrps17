@@ -78,6 +78,8 @@ For students enrolled at University of Copenhagen or political science departmen
 #### 3: Regression 1
 
 - Petersen, Michael Bang, Rune Slothuus, Rune Stubager & Lise Togeby (2010): Deservingness versus values in public opinion on welfare: The automaticity of the deservingness heuristic. *European Journal of Political Research* 50(1), 24-52. 29 pages.
+- Gilens, M., & Page, B. I. (2014). Testing theories of American politics: Elites, interest groups, and average citizens. *Perspectives on politics*, 12(03), 564-581.
+- Bashir, O. S. (2015). Testing Inferences about American Politics: A Review of the “Oligarchy” Result. *Research & Politics*, 2(4).
 
 #### 4: Regression 2
 
@@ -86,13 +88,14 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 5: Experiments 1
 
-- Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
 - Campbell, D. T., & Stanley, J. C. (1996): *Experimental and Quasi-experimental Designs for Research*. Chicago: Rand McNally. pp. 1-16. (a must read)
-- Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102(February):49-57. (focus on the design and the experiment)
+- Gerber, A. S., Green, D. P., & Larimer, C. W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. *American Political Science Review*, 102(01), 33-48.
+- Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
 
 #### 6: Experiments 2
 
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapters 3-5. (blocking, clustering, covariate adjustment, one-sided noncompliance)
+- Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102(February): 49-57. (focus on the design and the experiment)
 
 #### 7: Natual experiments 1
 
