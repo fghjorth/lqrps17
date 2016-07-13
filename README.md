@@ -27,7 +27,7 @@ Block | Day   | Time | Theme
 9 | Friday    | 9-12 | Content analysis 1: Introduction, uses
 10|           | 13-16| Content analysis 2: Designs, reliability & validity
 
-For readings for each block, see below.
+For readings for each block, see the [Literature](#lit) section below.
 
 ### Dates
 
@@ -53,7 +53,7 @@ Lunch and coffee will be provided every day. There will be a dinner for all cour
 
 For students enrolled at University of Copenhagen or political science departments at other Danish universities, course participation is free. For students at other departments, the fee is 1500 DKK
 
-### Literature
+### <a name="lit"></a> Literature
 
 #### 1: Logic 1
 
