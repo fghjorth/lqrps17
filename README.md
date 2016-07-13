@@ -84,7 +84,7 @@ For students enrolled at University of Copenhagen or political science departmen
 #### 4: Regression 2
 
 - Highton, B. og Wolfinger, W.E. (2001): The first seven years of the political life cycle. *American Journal of Political Science* 45(1): 202-209. (focus on tables and design and analysis)
-- Iversen, T. og Rosenbluth, F. (2008): Work and Power: The Connection Between Female Labor Force Participation and Female Political Representation. *Annu. Rev. Polit. Sci.*, 11: 479–495. (focus on tables and design and analysis)
+- Iversen, T., & Rosenbluth, F. (2008). Work and power: The connection between female labor force participation and female political representation. *Annu. Rev. Polit. Sci.*, 11, 479-495. (focus on tables and design and analysis)
 
 #### 5: Experiments 1
 
