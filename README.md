@@ -14,18 +14,20 @@ To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailt
 
 ### Course schedule
 
-Block | Day   | Time | Theme | Texts
+Block | Day   | Time | Theme
 ---|---|---|---|---
-1 | Monday    | 9-12 | Logic of research design 1 | KKV
-2 |           | 13-16| Logic of research design 2 | KKV
-3 | Tuesday   | 9-12 | Regression 1 |
-4 |           | 13-16| Regression 2 |
-5 | Wednesday | 9-12 | Experiments 1: Simple randomization |
-6 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance |
-7 | Thursday  | 9-12 | Natural experiments 1: IV, difference-in-difference |
-8 |           | 13-16| Natural experiments 2: RDD |
-9 | Friday    | 9-12 | Content analysis 1 |
-10|           | 13-16| Content analysis 2 |
+1 | Monday    | 9-12 | Logic 1: Quantitative research designs
+2 |           | 13-16| Logic 2: Controversies about the quantitative approach
+3 | Tuesday   | 9-12 | Regression 1: Linear regression
+4 |           | 13-16| Regression 2: Binary DV and panel models
+5 | Wednesday | 9-12 | Experiments 1: Simple randomization
+6 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance
+7 | Thursday  | 9-12 | Natural experiments 1: Natural experiments and RDD
+8 |           | 13-16| Natural experiments 2: IV, difference-in-difference
+9 | Friday    | 9-12 | Content analysis 1: Introduction, uses
+10|           | 13-16| Content analysis 2: Designs, reliability & validity
+
+For readings for each block, see below.
 
 ### Dates
 
@@ -52,3 +54,11 @@ Lunch and coffee will be provided every day. There will be a dinner for all cour
 For students enrolled at University of Copenhagen or political science departments at other Danish universities, course participation is free. For students at other departments, the fee is 1500 DKK
 
 ### Literature
+
+#### 1: Logic 1
+
+#### 2: Logic 2
+
+#### 3: Regression 1
+
+#### 4: Regression 2
