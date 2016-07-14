@@ -1,6 +1,6 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016.
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, September 19-23, 2016. The course is taught by [Frederik Hjorth](http://fghjorth.github.io), ph.d.
 
 ### Description
 
@@ -20,7 +20,7 @@ Students will also have the opportunity to present and receive feedback on their
 
 ### Signing up
 
-To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
+To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk), cc'ing me at [fh@ifs.ku.dk](mailto:fh@ifs.ku.dk).
 
 ### Course schedule
 
