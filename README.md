@@ -20,7 +20,7 @@ Students will also have the opportunity to present and receive feedback on their
 
 ### Signing up
 
-To sign up for the seminar, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk), cc'ing me at [fh@ifs.ku.dk](mailto:fh@ifs.ku.dk).
+To sign up for the course, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk), cc'ing me at [fh@ifs.ku.dk](mailto:fh@ifs.ku.dk).
 
 ### Course schedule
 
