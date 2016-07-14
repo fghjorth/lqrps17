@@ -83,6 +83,7 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 4: Regression 2
 
+- Plümper, T., Troeger, V. E., & Manow, P. (2005). Panel data analysis in comparative politics: Linking method to theory. *European Journal of Political Research*, 44(2), 327-354.
 - Highton, B. og Wolfinger, W.E. (2001): The first seven years of the political life cycle. *American Journal of Political Science* 45(1): 202-209. (focus on tables and design and analysis)
 - Iversen, T., & Rosenbluth, F. (2008). Work and power: The connection between female labor force participation and female political representation. *Annu. Rev. Polit. Sci.*, 11, 479-495. (focus on tables and design and analysis)
 
@@ -97,16 +98,17 @@ For students enrolled at University of Copenhagen or political science departmen
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapters 3-5. (blocking, clustering, covariate adjustment, one-sided noncompliance)
 - Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102(February): 49-57. (focus on the design and the experiment)
 
-#### 7: Natual experiments 1
+#### 7: Natural experiments 1
 
 -	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
 -	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
 -	Thistlethwaite, D. L. and D. T. Campbell (1960): Regression-Discontinuity Analysis: An Alternative to The Ex Post Factor Experiment. *The Journal Of Educational Psychology* 51 (6), 309–317.
+- Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
 
-#### 8: Natual experiments 2
+#### 8: Natural experiments 2
 
 -	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
--	Miguel, Edward, Shanker Satyanath og Ernest Sergenti (2001). Economic Shocks and Civil Conflict: An Instrumental Variables Approach. *Journal of Political Economy*, 112 (4): 725-753.
+- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
 -	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
 
 #### 9: Content analysis 1
