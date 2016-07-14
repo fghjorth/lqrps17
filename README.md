@@ -4,7 +4,7 @@ This repo contains information about and materials for "Logic of Quantitative Re
 
 ### Description
 
-The course will use illustrative examples from the political science literature, without focusing on the implementation of the quantitative approaches in statistical software.  The course equips students with concepts needed to understand the reasoning behind research designs and modeling in quantitative political science research.
+The course will use illustrative examples from the political science literature, and emphasizes the logic of research designs rather than their implementation in statistical software. The course equips students with concepts needed to understand the reasoning behind research designs and modeling in quantitative political science research.
 
 The course is structured around five themes, one covered each day:
 
@@ -53,15 +53,15 @@ It is expected that you have read the texts for each day and participate activel
 
 ### Research paper
 
-Deadline for submitting a research paper is Wednesday, September 14 at noon. The research paper should focus on the quantitative/ comparative/ methodologically aspect of your research and be no longer than 10 pages. It is expected that you prepare comment to all papers. The papers will be distributed before the course.
+Deadline for submitting a research paper is Wednesday, September 14 at noon. The research paper should reflect a quantitative/comparative/methodological aspect of your research and be no longer than 10 pages. It is expected that you prepare comment to all papers. The papers will be distributed before the course.
 
 ### Meals
 
-Lunch and coffee will be provided every day. There will be a dinner for all course participants at a Copenhagen restaurant.
+Lunch and coffee will be provided every day. On Tuesday, September 20, there will be a dinner for all course participants at a Copenhagen restaurant (location tba).
 
 ### Price
 
-For students enrolled at University of Copenhagen or political science departments at other Danish universities, course participation is free. For students at other departments, the fee is 1500 DKK
+For students enrolled at University of Copenhagen or political science departments at other Danish universities, course participation is free. For students at other departments, the fee is 1500 DKK.
 
 ### Literature
 
