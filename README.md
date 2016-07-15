@@ -74,6 +74,8 @@ For students enrolled at University of Copenhagen or political science departmen
 
 - Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
 - Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
+- *The Journal Editors' Transparency Statement (JETS)*, available at [dartstatement.org/#!blank/c22sl](http://www.dartstatement.org/#!blank/c22sl)
+- Isaac, J. C. (2015). For a more public political science. *Perspectives on Politics*, 13(02), 269-283.
 
 #### 3: Regression 1
 
