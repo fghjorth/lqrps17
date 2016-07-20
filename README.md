@@ -109,9 +109,11 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 8: Natural experiments 2
 
--	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
-- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
 -	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
+-	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
+- Albouy, D. Y. (2012). The colonial origins of comparative development: an empirical investigation: comment. *American Economic Review*, 102(6), 3059-3076.
+- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
+
 
 #### 9: Content analysis 1
 
