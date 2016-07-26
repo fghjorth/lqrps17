@@ -67,13 +67,15 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 1: Logic 1
 
-- Nørgaard. A. S. (2008) "Political Science: Witchcraft or Craftsmanship? Standards for Good Research". *World Political Science Review*. 4(1):1-28. (A must read)
-- Lijphart, A. (1971) "Politics and the Comparative method". *American Political Science Review*. 65 (3):682-693. (search for his interpretation of the core idea of PS)
+- Nørgaard. A. S. (2008) Political Science: Witchcraft or Craftsmanship? Standards for Good Research. *World Political Science Review*. 4(1):1-28. (A must read)
+- Lijphart, A. (1971) Politics and the Comparative method. *American Political Science Review*. 65 (3):682-693. (search for his interpretation of the core idea of PS)
+- Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
+- Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
 
 #### 2: Logic 2
 
-- Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
-- Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
+- Clarke, K. A., & Primo, D. M. (2007). Modernizing political science: A model-based approach. *Perspectives on Politics*, 5(04), 741-753.
+- Mearsheimer, J. J., & Walt, S. M. (2013). Leaving theory behind: Why simplistic hypothesis testing is bad for International Relations. *European Journal of International Relations*, 19(3), 427-457.
 - *The Journal Editors' Transparency Statement (JETS)*, available at [dartstatement.org/#!blank/c22sl](http://www.dartstatement.org/#!blank/c22sl)
 - Isaac, J. C. (2015). For a more public political science. *Perspectives on Politics*, 13(02), 269-283.
 
