@@ -67,55 +67,51 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 1: Logic 1
 
-- Nørgaard. A. S. (2008) Political Science: Witchcraft or Craftsmanship? Standards for Good Research. *World Political Science Review*. 4(1):1-28. (A must read)
 - Lijphart, A. (1971) Politics and the Comparative method. *American Political Science Review*. 65 (3):682-693. (search for his interpretation of the core idea of PS)
+- Nørgaard. A. S. (2008) Political Science: Witchcraft or Craftsmanship? Standards for Good Research. *World Political Science Review*. 4(1):1-28. (A must read)
+- Dahler-Larsen, P., & Sylvest, C. (2013). Hvilken pluralisme?: Betragtninger om det kausale design og definitionen af god samfundsvidenskab. *Politik*, 16(2), 59-68.
 - Laitin, D. D. (2003). The perestroikan challenge to social science. *Politics & Society*, 31(1), 163-184.
 - Flyvbjerg, B. (2004). A perestroikan straw man answers back: David Laitin and phronetic political science. *Politics & Society*, 32(3), 389-416.
 
 #### 2: Logic 2
 
-- Clarke, K. A., & Primo, D. M. (2007). Modernizing political science: A model-based approach. *Perspectives on Politics*, 5(04), 741-753.
-- Mearsheimer, J. J., & Walt, S. M. (2013). Leaving theory behind: Why simplistic hypothesis testing is bad for International Relations. *European Journal of International Relations*, 19(3), 427-457.
 - *The Journal Editors' Transparency Statement (JETS)*, available at [dartstatement.org/#!blank/c22sl](http://www.dartstatement.org/#!blank/c22sl)
 - Isaac, J. C. (2015). For a more public political science. *Perspectives on Politics*, 13(02), 269-283.
+- Leeper, T. J. (2016). Really Introductory Introduction to R, available at [github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf)
 
 #### 3: Regression 1
 
-- Petersen, Michael Bang, Rune Slothuus, Rune Stubager & Lise Togeby (2010): Deservingness versus values in public opinion on welfare: The automaticity of the deservingness heuristic. *European Journal of Political Research* 50(1), 24-52. 29 pages.
 - Gilens, M., & Page, B. I. (2014). Testing theories of American politics: Elites, interest groups, and average citizens. *Perspectives on politics*, 12(03), 564-581.
 - Bashir, O. S. (2015). Testing Inferences about American Politics: A Review of the “Oligarchy” Result. *Research & Politics*, 2(4).
 
 #### 4: Regression 2
 
-- Plümper, T., Troeger, V. E., & Manow, P. (2005). Panel data analysis in comparative politics: Linking method to theory. *European Journal of Political Research*, 44(2), 327-354.
-- Highton, B. og Wolfinger, W.E. (2001): The first seven years of the political life cycle. *American Journal of Political Science* 45(1): 202-209. (focus on tables and design and analysis)
-- Iversen, T., & Rosenbluth, F. (2008). Work and power: The connection between female labor force participation and female political representation. *Annu. Rev. Polit. Sci.*, 11, 479-495. (focus on tables and design and analysis)
+- Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
+- Steenbergen, M. R., & Jones, B. S. (2002). Modeling Multilevel Data Structures. *American Journal of Political Science*, 46(1), 218-237.
 
 #### 5: Experiments 1
 
 - Campbell, D. T., & Stanley, J. C. (1996): *Experimental and Quasi-experimental Designs for Research*. Chicago: Rand McNally. pp. 1-16. (a must read)
 - Gerber, A. S., Green, D. P., & Larimer, C. W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. *American Political Science Review*, 102(01), 33-48.
+- Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D., Marlow, C., Settle, J. E., & Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature*, 489(7415), 295-298.
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
 
 #### 6: Experiments 2
 
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapters 3-5. (blocking, clustering, covariate adjustment, one-sided noncompliance)
-- Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102(February): 49-57. (focus on the design and the experiment)
+- Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102 (February): 49-57. (focus on the design and the experiment)
 
 #### 7: Natural experiments 1
 
 -	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
 -	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
--	Thistlethwaite, D. L. and D. T. Campbell (1960): Regression-Discontinuity Analysis: An Alternative to The Ex Post Factor Experiment. *The Journal Of Educational Psychology* 51 (6), 309–317.
 - Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
 
 #### 8: Natural experiments 2
 
 -	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
 -	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
-- Albouy, D. Y. (2012). The colonial origins of comparative development: an empirical investigation: comment. *American Economic Review*, 102(6), 3059-3076.
 - Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
-
 
 #### 9: Content analysis 1
 
