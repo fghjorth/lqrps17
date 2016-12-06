@@ -1,6 +1,6 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, January 23-27, 2017. The course is taught by [Frederik Hjorth](http://fghjorth.github.io), ph.d.
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by [Frederik Hjorth](http://fghjorth.github.io), ph.d.
 
 ### Description
 
@@ -41,7 +41,7 @@ For readings for each block, see the [Literature](#literature) section below.
 
 ### Dates
 
-Monday January 23rd-Friday January 27th, 2017.
+Monday February 6 - Friday February 10, 2017.
 
 ### Location
 
@@ -53,11 +53,11 @@ It is expected that you have read the texts for each day and participate activel
 
 ### Research paper
 
-Deadline for submitting a research paper is Wednesday, September 14 at noon. The research paper should reflect a quantitative/comparative/methodological aspect of your research and be no longer than 10 pages. It is expected that you prepare comment to all papers. The papers will be distributed before the course.
+Deadline for submitting a research paper is Wednesday, February 2 at noon. The research paper should reflect a quantitative/comparative/methodological aspect of your research and be no longer than 10 pages. It is expected that you prepare comment to all papers. The papers will be distributed before the course.
 
 ### Meals
 
-Lunch and coffee will be provided every day. On Tuesday, January 24th, there will be a dinner for all course participants at a Copenhagen restaurant (location tba).
+Lunch and coffee will be provided every day. On Tuesday, February 7, there will be a dinner for all course participants at a Copenhagen restaurant (location tba).
 
 ### Price
 
