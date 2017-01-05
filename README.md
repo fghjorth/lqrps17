@@ -1,6 +1,6 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by [Frederik Hjorth](http://fghjorth.github.io), ph.d.
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by postdoc [Frederik Hjorth](http://fghjorth.github.io), associate professor Asmus Olsen, and associate professor Jacob Hariri.
 
 ### Description
 
@@ -20,22 +20,22 @@ Students will also have the opportunity to present and receive feedback on their
 
 ### Signing up
 
-To sign up for the course, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk), cc'ing me at [fh@ifs.ku.dk](mailto:fh@ifs.ku.dk).
+To sign up for the course, please send an email to [phdcourses@ifs.ku.dk](mailto:phdcourses@ifs.ku.dk).
 
 ### Course schedule
 
-Block | Day   | Time | Theme
----|---|---|---|---
-1 | Monday    | 9-12 | Logic 1: Quantitative research designs
-2 |           | 13-16| Logic 2: Controversies about the quantitative approach
-3 | Tuesday   | 9-12 | Regression 1: Linear regression
-4 |           | 13-16| Regression 2: Binary DV and panel models
-5 | Wednesday | 9-12 | Experiments 1: Simple randomization
-6 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance
-7 | Thursday  | 9-12 | Natural experiments 1: Natural experiments and RDD
-8 |           | 13-16| Natural experiments 2: IV, difference-in-difference
-9 | Friday    | 9-12 | Content analysis 1: Introduction, uses
-10|           | 13-16| Content analysis 2: Designs, reliability & validity
+Block | Day   | Time | Theme | Instructor
+---|---|---|---|--- |
+1 | Monday    | 9-12 | Logic 1: Quantitative research designs | Frederik Hjorth
+2 |           | 13-16| Logic 2: Controversies about the quantitative approach | Frederik Hjorth
+3 | Tuesday   | 9-12 | Regression 1: Linear regression | Frederik Hjorth
+4 |           | 13-16| Regression 2: Binary DV and panel models | Frederik Hjorth
+5 | Wednesday | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
+6 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance | Frederik Hjorth
+7 | Thursday  | 9-12 | Natural experiments 1: Natural experiments and RDD | Asmus Olsen
+8 |           | 13-16| Natural experiments 2: IV, difference-in-difference | Jacob Hariri
+9 | Friday    | 9-12 | Content analysis 1: Introduction, uses | Frederik Hjorth
+10|           | 13-16| Content analysis 2: Designs, reliability & validity | Frederik Hjorth
 
 For readings for each block, see the [Literature](#literature) section below.
 
