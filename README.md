@@ -1,6 +1,6 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by postdoc [Frederik Hjorth](http://fghjorth.github.io), associate professor Asmus Olsen, and associate professor Jacob Hariri.
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by postdoc [Frederik Hjorth](http://fghjorth.github.io), associate professor [Asmus Olsen](http://asmusolsen.com), and associate professor [Jacob Hariri](http://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/196635).
 
 ### Description
 
@@ -30,10 +30,10 @@ Block | Day   | Time | Theme | Instructor
 2 |           | 13-16| Logic 2: Controversies about the quantitative approach | Frederik Hjorth
 3 | Tuesday   | 9-12 | Regression 1: Linear regression | Frederik Hjorth
 4 |           | 13-16| Regression 2: Binary DV and panel models | Frederik Hjorth
-5 | Wednesday | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
-6 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance | Frederik Hjorth
-7 | Thursday  | 9-12 | Natural experiments 1: Natural experiments and RDD | Asmus Olsen
-8 |           | 13-16| Natural experiments 2: IV, difference-in-difference | Jacob Hariri
+5 | Wednesday | 9-12 | Natural experiments 1: Natural experiments and RDD | Asmus Olsen
+6 |           | 13-16| Natural experiments 2: IV, difference-in-difference | Jacob Hariri
+7 | Thursday  | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
+8 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance | Frederik Hjorth
 9 | Friday    | 9-12 | Content analysis 1: Introduction, uses | Frederik Hjorth
 10|           | 13-16| Content analysis 2: Designs, reliability & validity | Frederik Hjorth
 
@@ -89,29 +89,29 @@ For students enrolled at University of Copenhagen or political science departmen
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 - Steenbergen, M. R., & Jones, B. S. (2002). Modeling Multilevel Data Structures. *American Journal of Political Science*, 46(1), 218-237.
 
-#### 5: Experiments 1
+#### 5: Natural experiments 1
+
+-	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
+-	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
+- Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
+
+#### 6: Natural experiments 2
+
+-	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
+-	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
+- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
+
+#### 7: Experiments 1
 
 - Campbell, D. T., & Stanley, J. C. (1996): *Experimental and Quasi-experimental Designs for Research*. Chicago: Rand McNally. pp. 1-16. (a must read)
 - Gerber, A. S., Green, D. P., & Larimer, C. W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. *American Political Science Review*, 102(01), 33-48.
 - Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D., Marlow, C., Settle, J. E., & Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature*, 489(7415), 295-298.
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
 
-#### 6: Experiments 2
+#### 8: Experiments 2
 
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapters 3-5. (blocking, clustering, covariate adjustment, one-sided noncompliance)
 - Nickerson, D. W. (2008): Is Voting Contagious? Evidence from Two Field Experiments. *American Political Science Review* 102 (February): 49-57. (focus on the design and the experiment)
-
-#### 7: Natural experiments 1
-
--	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
--	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
-- Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
-
-#### 8: Natural experiments 2
-
--	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
--	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
-- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
 
 #### 9: Content analysis 1
 
