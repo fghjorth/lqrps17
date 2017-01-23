@@ -1,6 +1,6 @@
 ## Logic of Quantitative Research in Political Science
 
-This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by postdoc [Frederik Hjorth](http://fghjorth.github.io), associate professor [Asmus Olsen](http://asmusolsen.com), and associate professor [Jacob Hariri](http://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/196635).
+This repo contains information about and materials for "Logic of Quantitative Research in Political Science", a five-day graduate-level course held at the University of Copenhagen, February 6-10, 2017. The course is taught by postdoc [Frederik Hjorth](http://fghjorth.github.io), associate professor [Asmus Leth Olsen](http://asmusolsen.com), and associate professor [Jacob Gerner Hariri](http://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/196635).
 
 ### Description
 
@@ -10,8 +10,8 @@ The course is structured around five themes, one covered each day:
 
 1. Logic of quantitative research
 - Regression
-- Experiments
 - Natural Experiments
+- Experiments
 - Content analysis
 
 The course covers the key methodological approaches within each theme as well as canonical research articles applying the relevant approach. For more details, see [Course schedule](#course-schedule) below.
@@ -30,8 +30,8 @@ Block | Day   | Time | Theme | Instructor
 2 |           | 13-16| Logic 2: Controversies about the quantitative approach | Frederik Hjorth
 3 | Tuesday   | 9-12 | Regression 1: Linear regression | Frederik Hjorth
 4 |           | 13-16| Regression 2: Binary DV and panel models | Frederik Hjorth
-5 | Wednesday | 9-12 | Natural experiments 1: IV, difference-in-difference | Jacob Hariri
-6 |           | 13-16| Natural experiments 2: Natural experiments and RDD | Asmus Olsen
+5 | Wednesday | 9-12 | Natural experiments 1: IV, difference-in-difference | Jacob Gerner Hariri
+6 |           | 13-16| Natural experiments 2: Natural experiments and RDD | Asmus Leth Olsen
 7 | Thursday  | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
 8 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance | Frederik Hjorth
 9 | Friday    | 9-12 | Content analysis 1: Introduction, uses | Frederik Hjorth
