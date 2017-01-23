@@ -30,8 +30,8 @@ Block | Day   | Time | Theme | Instructor
 2 |           | 13-16| Logic 2: Controversies about the quantitative approach | Frederik Hjorth
 3 | Tuesday   | 9-12 | Regression 1: Linear regression | Frederik Hjorth
 4 |           | 13-16| Regression 2: Binary DV and panel models | Frederik Hjorth
-5 | Wednesday | 9-12 | Natural experiments 1: Natural experiments and RDD | Asmus Olsen
-6 |           | 13-16| Natural experiments 2: IV, difference-in-difference | Jacob Hariri
+5 | Wednesday | 9-12 | Natural experiments 1: IV, difference-in-difference | Jacob Hariri
+6 |           | 13-16| Natural experiments 2: Natural experiments and RDD | Asmus Olsen
 7 | Thursday  | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
 8 |           | 13-16| Experiments 2: Clustering, blocking, noncompliance | Frederik Hjorth
 9 | Friday    | 9-12 | Content analysis 1: Introduction, uses | Frederik Hjorth
@@ -81,6 +81,7 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 3: Regression 1
 
+- Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics: The path from cause to effect*. Princeton University Pres, chapter 2.
 - Gilens, M., & Page, B. I. (2014). Testing theories of American politics: Elites, interest groups, and average citizens. *Perspectives on politics*, 12(03), 564-581.
 - Bashir, O. S. (2015). Testing Inferences about American Politics: A Review of the “Oligarchy” Result. *Research & Politics*, 2(4).
 
@@ -103,9 +104,9 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 7: Experiments 1
 
+- Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics: The path from cause to effect*. Princeton University Pres, chapter 1.
 - Campbell, D. T., & Stanley, J. C. (1996): *Experimental and Quasi-experimental Designs for Research*. Chicago: Rand McNally. pp. 1-16. (a must read)
 - Gerber, A. S., Green, D. P., & Larimer, C. W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. *American Political Science Review*, 102(01), 33-48.
-- Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D., Marlow, C., Settle, J. E., & Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature*, 489(7415), 295-298.
 - Gerber, A. S., & D. P. Green (2012): *Field Experiments: Design, Analysis, and Interpretation*.  New York: W.W. Norton. Chapter 1. (a general intro to experiment)
 
 #### 8: Experiments 2
