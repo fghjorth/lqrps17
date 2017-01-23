@@ -92,15 +92,15 @@ For students enrolled at University of Copenhagen or political science departmen
 
 #### 5: Natural experiments 1
 
--	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
--	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
-- Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
-
-#### 6: Natural experiments 2
-
 -	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
 -	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
 - Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
+
+#### 6: Natural experiments 2
+
+-	Dunning, T. (2008). Improving Causal Inference: Strengths and Limitations of Natural Experiments. *Political Research Quarterly*,  61 (2), 282–293.
+-	Verrier, Diarmuid B. (2012). Evidence for the influence of the mere-exposure effect on voting in the Eurovision Song Contest. *Judgment and Decision Making* 7 (5), 639-643.
+- Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
 
 #### 7: Experiments 1
 
