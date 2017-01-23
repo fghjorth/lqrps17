@@ -45,7 +45,7 @@ Monday February 6 - Friday February 10, 2017.
 
 ### Location
 
-University of Copenhagen, Department of Political Science, Øster Farimagsgade 5, 1353 Copenhagen K.
+University of Copenhagen, Department of Political Science, Øster Farimagsgade 5, 1353 Copenhagen K. Teaching takes place in room [4.2.50](http://app.mapsindoors.net/ku/index.html#54b8c7503d4e4116842f1b8f).
 
 ### Class participation
 
