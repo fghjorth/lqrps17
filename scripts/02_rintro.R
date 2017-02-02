@@ -1,5 +1,5 @@
 # definer sti
-setwd("~/GitHub/vkme16/scripts")
+setwd("~/GitHub/lqrps17")
 
 # brug R som en lommeregner
 
@@ -55,9 +55,9 @@ class(worldpopdf)
 
 require(readr) # bemærk: her indlæses en pakke. skal installeres først med install.package()
 
-write_csv(worldpopdf,"../data/1_worldpop.csv")
+write_csv(worldpopdf,"data/1_worldpop.csv")
 
-worldpopdf<-read_csv("../data/1_worldpop.csv")
+worldpopdf<-read_csv("data/1_worldpop.csv")
 
 # subsetting af data frames
 
