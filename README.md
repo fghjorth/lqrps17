@@ -57,7 +57,7 @@ Deadline for submitting a research paper is Wednesday, February 2 at noon. The r
 
 ### Meals
 
-Lunch and coffee will be provided every day. On Tuesday, February 7, there will be a dinner for all course participants at a Copenhagen restaurant (location tba).
+Lunch and coffee will be provided every day. On Tuesday, February 7, there will be a dinner for all course participants at [Madklubben Nørrebro](http://madklubben.dk/en/noerrebro/).
 
 ### Price
 
@@ -94,7 +94,8 @@ For students enrolled at University of Copenhagen or political science departmen
 
 -	Hariri, Jacob (2012): Kausal inferens i statskundskaben, *Politica*.
 -	Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001): The Colonial Origins of Comparative Development: An Empirical Investigation, *American Economic Review*, 91 (5): 1369-1401.
-- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
+<!-- - Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410. -->
+- Miguel, E., Satyanath, S., & Sergenti, E. (2004). Economic shocks and civil conflict: An instrumental variables approach. *Journal of political Economy*, 112(4), 725-753.
 
 #### 6: Natural experiments 2
 
