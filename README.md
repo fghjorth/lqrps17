@@ -29,7 +29,7 @@ Block | Day   | Time | Theme | Instructor
 1 | Monday    | 9-12 | Logic 1: Quantitative research designs | Frederik Hjorth
 2 |           | 13-16| Logic 2: Controversies about the quantitative approach | Frederik Hjorth
 3 | Tuesday   | 9-12 | Regression 1: Linear regression | Frederik Hjorth
-4 |           | 13-16| Regression 2: Binary DV and panel models | Frederik Hjorth
+4 |           | 13-16| Regression 2: Panel data and interaction models | Frederik Hjorth
 5 | Wednesday | 9-12 | Natural experiments 1: IV, difference-in-difference | Jacob Gerner Hariri
 6 |           | 13-16| Natural experiments 2: Natural experiments and RDD | Asmus Leth Olsen
 7 | Thursday  | 9-12 | Experiments 1: Simple randomization | Frederik Hjorth
