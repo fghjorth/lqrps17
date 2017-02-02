@@ -6,7 +6,7 @@ require(haven)
 require(dplyr)
 
 #simuler et meget enkelt datas?t
-simdat<-data.frame(y=c(2,8,11),x=c(1,3,5))
+simdat<-data.frame(y=c(2,8,11,14),x=c(1,3,5,6))
 
 #kovarians og varians
 kovariansxy<-cov(simdat$x,simdat$y)
@@ -21,10 +21,26 @@ korrkoefxy<-kovariansxy/(sqrt(variansx)*sqrt(variansy))
 summary(lm(y~x,data=simdat))
 cor.test(simdat$x,simdat$y)
 
+#add additional variable, z
+simdat<-cbind(simdat,z=c(2,6,8,13))
 
+#create x matrix for manual ols
+xmat<-as.matrix(cbind(const=1,simdat$x,simdat$z))
+yvec<-simdat$y
+
+#create elements
+XY<-t(xmat)%*%yvec # X'Y
+XXi<-solve(t(xmat)%*%xmat)
+
+#vector of coefficients
+XXi %*% XY
+
+#check again
+summary(lm(y~x+z,data=simdat))
+cor.test(simdat$x,simdat$y)
 
 #indlæs data
-gd<-read_dta("data/2_gilens.dta")
+gd<-read_dta("data/03_gilens.dta")
 
 #fjern missing i dep var
 gd<-mutate(gd,outcome_rc=ifelse(OUTCOME==99,NA,OUTCOME))
