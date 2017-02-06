@@ -34,3 +34,17 @@ summary(m2re)
 #presentation in stargazer
 stargazer(m1,m2,m2,m2re,se=list(NULL,NULL,clse_precinct,NULL),style="apsr",type="text",omit="factor")
 
+
+# STEENBERGEN
+
+load("data/04_steenbergen.rdata")
+
+tbl4ols<-lm(support~tenurez+tradez+inclow+inchi+lright+olead+male+age,data=x)
+summary(tbl4ols)
+
+vcov_cntry<-cluster.vcov(tbl4ols,x$cntry)
+clse_cntry<-sqrt(diag(vcov_cntry))
+
+tbl4re<-lmer(support~tenurez+tradez+inclow+inchi+lright+olead+male+age+(1|cntry),data=x)
+
+stargazer(tbl4ols,tbl4ols,tbl4re,se=list(NULL,clse_cntry,NULL),style="apsr",type="text")
