@@ -1,5 +1,5 @@
 #definer filsti
-setwd("~/GitHub/lqrps17/")
+setwd("~/GitHub/lqrps16/")
 
 #indlæg nogle pakker
 require(haven)
@@ -30,7 +30,7 @@ yvec<-simdat$y
 
 #create elements
 XY<-t(xmat)%*%yvec # X'Y
-XXi<-solve(t(xmat)%*%xmat)
+XXi<-solve(t(xmat)%*%xmat) # (X'X)^-1
 
 #vector of coefficients
 XXi %*% XY
