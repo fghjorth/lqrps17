@@ -1,5 +1,5 @@
 # definer sti
-setwd("~/GitHub/lqrps17")
+setwd("~/GitHub/lqrps16")
 
 # brug R som en lommeregner
 
@@ -15,15 +15,15 @@ sqrt(5*5) #bemærk at sqrt() er en funktion!
 
 # objekter
 
-resultat <- 5+3
+result <- 5+3
 
-print(resultat)
+print(result)
 
-class(resultat)
+class(result)
 
-resultat <- "8"
+result <- "8"
 
-class(resultat)
+class(result)
 
 # vektorer
 
@@ -55,7 +55,7 @@ class(worldpopdf)
 
 require(readr) # bemærk: her indlæses en pakke. skal installeres først med install.package()
 
-write_csv(worldpopdf,"data/1_worldpop.csv")
+write_csv(x=worldpopdf,path="data/1_worldpop.csv")
 
 worldpopdf<-read_csv("data/1_worldpop.csv")
 
