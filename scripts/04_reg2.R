@@ -32,7 +32,7 @@ m2re<-lmer(incsupport~hp_1yr+(1|valgstedid)+(1|year),data=ld)
 summary(m2re)
 
 #presentation in stargazer
-stargazer(m1,m2,m2,m2re,se=list(NULL,NULL,clse_precinct,NULL),style="apsr",type="text",omit="factor")
+stargazer(m1,m2,m2,m2re,se=list(NULL,NULL,clse_precinct,NULL),style="apsr",type="text",omit="factor",omit.stat="f")
 
 
 # STEENBERGEN
@@ -47,4 +47,4 @@ clse_cntry<-sqrt(diag(vcov_cntry))
 
 tbl4re<-lmer(support~tenurez+tradez+inclow+inchi+lright+olead+male+age+(1|cntry),data=x)
 
-stargazer(tbl4ols,tbl4ols,tbl4re,se=list(NULL,clse_cntry,NULL),style="apsr",type="text")
+stargazer(tbl4ols,tbl4ols,tbl4re,se=list(NULL,clse_cntry,NULL),style="apsr",type="text",omit.stat="f")

@@ -4,6 +4,7 @@ setwd("~/GitHub/lqrps16/")
 #indlæg nogle pakker
 require(haven)
 require(dplyr)
+require(ggplot2)
 
 #simuler et meget enkelt datas?t
 simdat<-data.frame(y=c(2,8,11,14),x=c(1,3,5,6))
@@ -100,3 +101,24 @@ hist(m3logit$residuals)
 
 #multikollinearitet?
 vif(m3logit)
+
+## plot predictions w ols and logit
+
+olspreddf<-as.data.frame(predict(m1ols,newdata=data.frame(pred50_sw=seq(0,1,.05)),se.fit=T))
+
+logitpreddf<-as.data.frame(predict(m1logit,newdata=data.frame(pred50_sw=seq(0,1,.05)),type="response",se.fit=T))
+
+preddf<-bind_rows(olspreddf[,1:2],logitpreddf[,1:2])
+preddf$model<-rep(c("OLS","Logit"),each=21)
+
+ggplot(preddf,aes(x=rep(seq(0,1,.05),2),y=fit)) +
+  geom_line() +
+  geom_ribbon(aes(ymin=fit-2*se.fit,ymax=fit+2*se.fit),alpha=.1) +
+  theme_bw() +
+  facet_grid(.~model) +
+  labs(x="Policy support",y="Pr(Success)")
+
+ggplot(logitpreddf,aes(x=seq(0,1,.05),y=fit)) +
+  geom_line() +
+  geom_ribbon(aes(ymin=fit-2*se.fit,ymax=fit+2*se.fit),alpha=.1) +
+  theme_bw()
