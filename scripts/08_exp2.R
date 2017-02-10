@@ -11,7 +11,7 @@ require(ri)
 set.seed(123456)
 y <- rnorm(500,100,15)
 Z <- sample(0:1,500,replace=T)
-cluster <- rep(1:5,each=100)
+cluster <- rep(1:50,each=10)
 perms <- genperms(Z, clustvar=cluster) # all possible permutations
 probs <- genprobexact(Z, clustvar=cluster) # probability of treatment
 ate <- estate(y,Z,prob=probs) # estimate the ATE

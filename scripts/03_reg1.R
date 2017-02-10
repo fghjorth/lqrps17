@@ -1,5 +1,5 @@
 #definer filsti
-setwd("~/GitHub/lqrps16/")
+setwd("~/GitHub/lqrps17/")
 
 #indlæg nogle pakker
 require(haven)
